@@ -4,9 +4,9 @@ https://www.w3schools.com/php/php_file_upload.asp
 
 # Why this file upload system is better:
 
-- You can upload files with the same name
-- It is password protected
-- It creates a new directory everytime a file is uploaded
+- You can upload files with the same name.
+- It is password protected.
+- It creates a new directory everytime a file is uploaded.
 - The file is shown and linked once it is uploaded.
 
 
